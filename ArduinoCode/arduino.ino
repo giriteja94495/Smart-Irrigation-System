@@ -1,6 +1,4 @@
-/*including the header of DHT-11 temperature and humidty sensor and this header is commented because,
-github recognises it as c++ file but it should be included during program execution.Uncomment lines from 1 to 11
-for 
+//including the header of DHT-11 temperature and humidty sensor.
 #include<dht.h>
 
 //creating the instance of the sensor 
@@ -8,7 +6,7 @@ dht DHT;
 
 //  if you require to change the pin number, Edit the pin with your arduino pin.
 #define DHT11_PIN 3 
-*/
+
 //  this void setup function runs only once
 void setup() 
 {
