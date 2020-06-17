@@ -59,5 +59,8 @@ The system automatically turns the water pump on when the moisture level in the 
  
  # Screenshot of Results
  
- ![image1](Images/IMG_20181012_190951.jpg)
-
+ ![](https://github.com/giriteja94495/Smart-Irrigation-System/blob/master/Images/2018-10-12_(1)%5B1%5D.png)
+ 
+ ![](https://github.com/giriteja94495/Smart-Irrigation-System/blob/master/Images/2018-10-12_(4)%5B1%5D.png)
+ ![](https://github.com/giriteja94495/Smart-Irrigation-System/blob/master/Images/IMG-20181012-WA0000%5B1%5D.jpg)
+![](https://github.com/giriteja94495/Smart-Irrigation-System/blob/master/Images/IMG_20181012_190951%5B1%5D.jpg)
