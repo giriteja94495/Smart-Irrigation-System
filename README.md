@@ -64,3 +64,7 @@ The system automatically turns the water pump on when the moisture level in the 
  ![](https://github.com/giriteja94495/Smart-Irrigation-System/blob/master/Images/2018-10-12_(4)%5B1%5D.png)
  ![](https://github.com/giriteja94495/Smart-Irrigation-System/blob/master/Images/IMG-20181012-WA0000%5B1%5D.jpg)
 ![](https://github.com/giriteja94495/Smart-Irrigation-System/blob/master/Images/IMG_20181012_190951%5B1%5D.jpg)
+
+# Working is uploaded to Youtube 
+ * You can see the working of my project in youtube
+ [Smart irrigation Video](https://www.youtube.com/watch?v=Za9haX_TWQE)
